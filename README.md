@@ -93,7 +93,7 @@
 
 ### Tools
 
-Git • GitHub • VS Code • Figma • Postman • Cloudinary
+Git • GitHub • Antigravity • OpenAI • Postman • Cloudinary
 
 ---
 

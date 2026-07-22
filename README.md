@@ -103,6 +103,6 @@ Git • GitHub • Antigravity • OpenAI • Postman • Cloudinary
 
 💼 LinkedIn: https://www.linkedin.com/in/kishoor-kannan-40399b364/
 
-🌐 Portfolio: https://yourportfolio.com
+🌐 Portfolio: https://kishoor.netlify.app/
 
 ⭐ Thanks for visiting my profile!

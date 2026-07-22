@@ -1,10 +1,6 @@
 # 💻 Kishoor K — Project Portfolio
 
-> 🚀 Passionate Full Stack Developer & UI/UX Designer building modern web applications with clean design, scalable architecture, and impactful user experiences.
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
-
+> 🚀 Passionate Full Stack Developer crafting modern, scalable, and high-performance web applications with clean code, secure backend architecture, and intuitive user experiences.
 ---
 
 # ✅ Featured Projects
@@ -26,9 +22,9 @@
 
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary`
 
-🔗 **Live Demo:** *(Add Link)*
+🔗 **Live Demo:** *(https://eterra-blue.vercel.app/)*
 
-🔗 **Repository:** *(Add Link)*
+🔗 **Repository:** *(https://github.com/Kishoorkannan/Eterra)*
 
 ---
 
@@ -50,7 +46,7 @@
 
 🔗 **Live Demo:** https://travyoai.netlify.app/
 
-🔗 **Repository:** *(Add Link)*
+🔗 **Repository:** *(https://github.com/Kishoorkannan/Travyo)*
 
 ---
 
@@ -101,19 +97,11 @@ Git • GitHub • VS Code • Figma • Postman • Cloudinary
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 # 📫 Connect With Me
 
-📧 Email: yourmail@gmail.com
+📧 Email: kishoorkannan157@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+💼 LinkedIn: https://www.linkedin.com/in/kishoor-kannan-40399b364/
 
 🌐 Portfolio: https://yourportfolio.com
 

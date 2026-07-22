@@ -15,7 +15,7 @@
 - 🔐 JWT Authentication & Secure Login
 - ☁️ Cloudinary Media Uploads
 - 📅 Timeline-based Memory Organization
-- 👨‍👩‍👧 Private Family Sharing
+- 👨‍👩‍👧 Absolute Privacy
 - 📱 Fully Responsive MERN Application
 
 **Tech Stack**
